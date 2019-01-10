@@ -2,7 +2,7 @@
 
 ## Introduction
 
-TODO
+Inspired by [devhub](https://github.com/devhubapp/devhub) architecture.
 
 ## Instalation
 
