@@ -4,7 +4,7 @@
 
 Inspired by [devhub](https://github.com/devhubapp/devhub) architecture.
 
-## Instalation
+## Installation
 
 Install all `packages` dependencies :
 
@@ -14,6 +14,8 @@ Run React web app :
 
 `yarn web:start`
 
-Run React-Native app :
+Run React-Native app using Docker :
+
+`make docker-run`
 
 `yarn mobile:android:run`
