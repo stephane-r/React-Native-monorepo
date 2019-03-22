@@ -2,7 +2,11 @@
 
 ## Introduction
 
+React App monorepo with Yarn workspaces. This project include React (packages/web) and React Native (packages/mobile).
+
 Inspired by [devhub](https://github.com/devhubapp/devhub) architecture.
+
+Great article about React monorepo : [Building large scale react applications in a monorepo](https://medium.com/@luisvieira_gmr/building-large-scale-react-applications-in-a-monorepo-91cd4637c131)
 
 ## Installation
 
