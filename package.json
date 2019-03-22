@@ -10,7 +10,7 @@
     ]
   },
   "scripts": {
-    "web:start": "yarn workspace @youtube-audio-player/web start",
-    "mobile:android:run": "yarn workspace @youtube-audio-player/mobile android:run"
+    "web:start": "yarn workspace @react-app/web start",
+    "mobile:android:run": "yarn workspace @react-app/mobile android:run"
   }
 }

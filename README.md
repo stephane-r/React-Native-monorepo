@@ -14,8 +14,10 @@ Run React web app :
 
 `yarn web:start`
 
-Run React-Native app using Docker :
-
-`make docker-run`
+Run React-Native app on Android :
 
 `yarn mobile:android:run`
+
+## Using Docker
+
+If you want use Dockerfile for your React/React-Native project, you can use [this Docker image](https://github.com/stephane-r/react-native-docker)
